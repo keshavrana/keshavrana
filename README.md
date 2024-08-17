@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keshavrana
 - 👀 I’m interested in Development and Competitive Programming
-- 🌱 I’m currently learning Node and React
+- 🌱 I’m currently learning Java Spring Boot & React
 - 💞️ I’m looking to collaborate with developers
 - 📫 How to reach me Email -> Keshavrana9756@gmail.com
 
